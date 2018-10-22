@@ -74,6 +74,7 @@
 			<ShortName>Main</ShortName>
 			<Path>Main.bnk</Path>
 			<IncludedEvents>
+				<Event Id="840395800" Name="Play_door_lighthouse_open" ObjectPath="\Events\Default Work Unit\Play_door_lighthouse_open"/>
 				<Event Id="3196500972" Name="Play_level" ObjectPath="\Events\Default Work Unit\Play_level"/>
 			</IncludedEvents>
 			<ReferencedStreamedFiles>
@@ -103,6 +104,10 @@
 				<File Id="230784566" Language="SFX">
 					<ShortName>Amb\lotr_amb_thunderStrike_02.wav</ShortName>
 					<Path>SFX\Amb\lotr_amb_thunderStrike_02_56D34C19.wem</Path>
+				</File>
+				<File Id="290421575" Language="SFX">
+					<ShortName>lotr_amb_door_lighthouse_open_01.wav</ShortName>
+					<Path>SFX\lotr_amb_door_lighthouse_open_01_56D34C19.wem</Path>
 				</File>
 				<File Id="616332318" Language="SFX">
 					<ShortName>lotr_amb_rain_ext_lp_04.wav</ShortName>
