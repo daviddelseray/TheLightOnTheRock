@@ -10,6 +10,12 @@ State	ID	Name	State Group			Notes
 	529034928	int	intExt_ST			
 	898834102	ext	intExt_ST			
 
+Custom State	ID	Name	State Group	Owner		Notes
+	205907947	int	intExt_ST	\Actor-Mixer Hierarchy\Default Work Unit\Ambiances\Ocean		
+	221386019	int	intExt_ST	\Actor-Mixer Hierarchy\Default Work Unit\Ambiances\RoomTone		
+	389111455	int	intExt_ST	\Actor-Mixer Hierarchy\Default Work Unit\Ambiances\Wind		
+	421891099	int	intExt_ST	\Actor-Mixer Hierarchy\Default Work Unit\Ambiances\Thunder		
+
 Game Parameter	ID	Name			Wwise Object Path	Notes
 	769590975	weather_GP			\Default Work Unit\weather_GP	
 	3403470729	intExt_GP			\Default Work Unit\intExt_GP	
